@@ -1,0 +1,7 @@
+C:\Users\HP\OneDrive\Escritorio\practica1\Ejercicio_2.3_3381027\Ejercicio_2.3_3381027\bin\Debug\Ejercicio_2.3_3381027.exe.config
+C:\Users\HP\OneDrive\Escritorio\practica1\Ejercicio_2.3_3381027\Ejercicio_2.3_3381027\bin\Debug\Ejercicio_2.3_3381027.exe
+C:\Users\HP\OneDrive\Escritorio\practica1\Ejercicio_2.3_3381027\Ejercicio_2.3_3381027\bin\Debug\Ejercicio_2.3_3381027.pdb
+C:\Users\HP\OneDrive\Escritorio\practica1\Ejercicio_2.3_3381027\Ejercicio_2.3_3381027\obj\Debug\Ejercicio_2.3_3381027.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\practica1\Ejercicio_2.3_3381027\Ejercicio_2.3_3381027\obj\Debug\Ejercicio_2.3_3381027.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\practica1\Ejercicio_2.3_3381027\Ejercicio_2.3_3381027\obj\Debug\Ejercicio_2.3_3381027.exe
+C:\Users\HP\OneDrive\Escritorio\practica1\Ejercicio_2.3_3381027\Ejercicio_2.3_3381027\obj\Debug\Ejercicio_2.3_3381027.pdb
